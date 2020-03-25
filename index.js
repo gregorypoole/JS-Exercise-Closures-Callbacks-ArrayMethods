@@ -303,7 +303,8 @@ function counterMakerWithLimit(maxNum) {
       counter++;
     }
     return counter - 1;
-  }
+  } 
+}
 
 /////////////// END OF CHALLENGE ///////////////
 /////////////// END OF CHALLENGE ///////////////
